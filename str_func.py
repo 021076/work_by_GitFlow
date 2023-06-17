@@ -11,3 +11,5 @@ def str_tit(user_str):
     :return: строку, каждое слово с заглавной буквы
     """
     return user_str.title()
+
+# Поймали и исправили багу
